@@ -1,7 +1,7 @@
 # PDF Document Understanding with Transformers
 
 This project is a Python-based NLP pipeline for automatic document understanding.  
-It extracts text from a PDF document, summarizes the content, generates relevant questions, and answers those questions using Transformer-based models.
+It extracts text from a PDF document, summarizes the content, generates relevant questions, and answers those questions using Transformer-based models. It was possible thank to https://amanxai.com/2024/10/21/document-analysis-using-llms-with-python/
 
 ## Features
 
